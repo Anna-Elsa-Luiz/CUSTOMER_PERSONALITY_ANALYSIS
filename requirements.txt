@@ -4,5 +4,6 @@ matplotlib
 scikit-learn
 seaborn
 ipykernel
+scipy
 
 -e . 
